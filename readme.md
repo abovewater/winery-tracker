@@ -1,5 +1,6 @@
 
-<details><strong>The Winery Tracker</strong>
+<strong>The Winery Tracker</strong>
+
 I like wine. 
 
 I like visiting wineries.
